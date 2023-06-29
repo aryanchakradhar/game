@@ -1,2 +1,1 @@
-# game
-scissor paper rock gamae
+# Scissor Paper Rock Game
